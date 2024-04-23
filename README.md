@@ -1,2 +1,2 @@
 # MDD
-[Up-to-date repo](https://github.com/GSEKM/MDD4CPD)
+[Up-to-date repository](https://github.com/GSEKM/MDD4CPD)
